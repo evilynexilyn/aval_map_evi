@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family= Krona+One & family= Ysabeau+Infant & display =swap');
+
+body {
+    font-family: 'Ysabeau Infant';
+    text-align: center;
+    background-color:lavender;
+}
+
+h1 {
+    color: #333;
+}
+
+
+.input-label {
+    font-weight: bold;
+}
+
+.input-field {
+    margin-top: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+.resultado {
+    margin-top: 30px;
+    font-weight: bold;
+    color:darkslateblue;
+}
+
+.navegar {
+    background-color:lightblue;
+    color: #fff;
+    padding: 20px;
+}
+
+.navegar h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navegar h2 {
+    margin: 20px 0 10px;
+    font-size: 18px;
+}
+
+.navegar a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.navegar a:hover {
+    text-decoration: underline;
+}
+
+#botao{
+    
+    border-radius: 4px;
+    background-color:lightcyan;
+}
